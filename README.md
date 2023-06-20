@@ -1,5 +1,5 @@
 
-<div class= "nome"><h1>▴Pode me chamar de Gabriel Salustino ou Colki. </h1></div><br>
+<div class= "nome"><h1>▴Pode me chamar de Gabriel Salustino ou Colki. </h1> </div> <br>
 <style>
   h1{
     Font-size: 40px;
