@@ -11,14 +11,14 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img aling="right" alt="Homem Aranha" src="https://cdn.discordapp.com/attachments/1111808553263579205/1120538049424654398/spiderverse_1.gif" width="150px">
+
 </div><br>
 <div> 
   <a href="https://instagram.com/gabriel_cthulhu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rickquevedoc137@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-salustiano-quevedo-513866248" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
+    <img aling="right" alt="Homem Aranha" src="https://cdn.discordapp.com/attachments/1111808553263579205/1120538049424654398/spiderverse_1.gif" width="350px">
 <br>
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄<br>
 ░░░░░░░░░░▀█▄▀▄▀██████░▀█▄▀▄▀████▀<br>
