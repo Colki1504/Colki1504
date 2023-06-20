@@ -1,6 +1,6 @@
 
 ▴Pode me chamar de Gabriel Salustino ou Colki. <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colki1504&langs_count=8)(https://github.com/Colki1504))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colki1504&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄<br>
 ░░░░░░░░░░▀█▄▀▄▀██████░▀█▄▀▄▀████▀<br>
